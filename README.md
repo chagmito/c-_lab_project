@@ -1,1 +1,1 @@
-# c-_lab_project
+# Household Power Consumption Calculator (C++ / OOP)
